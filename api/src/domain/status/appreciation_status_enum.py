@@ -1,7 +1,7 @@
 from enum import Enum
 
 
-class MovieStatus(Enum):
+class AppreciationStatus(Enum):
     """鑑賞状況を扱う Enum"""
 
     WATCHED = "Watched"
